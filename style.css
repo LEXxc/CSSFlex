@@ -1,0 +1,26 @@
+*{
+    background-color: gray;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.column{
+    display: flex;
+    justify-content: space-between;
+}
+section{
+    height: 276px;
+    width: 305px;
+    padding: 14px;
+    margin: 6px; 
+    border: 5px solid black;
+}
+.section1{
+    height: 0%;
+    width: 0%;
+    padding: 1%;
+    margin: 0%;
+    border: 5px solid black;
+}
